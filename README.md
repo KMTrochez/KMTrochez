@@ -65,32 +65,22 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
-  <img src="https://worldvectorlogo.com/logo/wireshark" width="40" height="40" alt="Wireshark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode logo" />
-  <img src="" width="40" height="40" alt="Postman logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="40" height="40" alt="Anaconda logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" alt="Jupyter Notebook logo" />
 
-
-  
-  <!-- Zenmap (Nmap GUI) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Nmap_logo.svg" height="40" alt="Zenmap logo" />
-  <img width="12" />
+  <img src="https://worldvectorlogo.com/logo/wireshark" width="40" height="40" alt="Wireshark" />
+  <img src="" width="40" height="40" alt="Postman logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Nmap_logo.svg" width="40" height="40" alt="Zenmap logo" />
   
   
 
-  <!-- Anaconda -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" height="40" alt="Anaconda logo" />
-  <img width="12" />
-  
-  <!-- Metasploit (no standard SVG) -->
   <img src="/assets/icons/metasploit.svg" height="40" alt="Metasploit logo" />
   <img width="12" />
   
-  <!-- Hashcat (no official logo online, needs local fallback) -->
   <img src="/assets/icons/hashcat.svg" height="40" alt="Hashcat logo" />
   <img width="12" />
-  
-  <!-- Jira -->
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_%28Software%29_logo.svg" height="40" alt="Jira logo" />
 
   
