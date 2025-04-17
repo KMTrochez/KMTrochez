@@ -69,7 +69,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="40" height="40" alt="Anaconda logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" alt="Jupyter Notebook logo" />
 
-
+<!--
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Wireshark_Logo.svg" width="40" height="40" alt="Wireshark" />
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="40" height="40" alt="Postman logo" />
@@ -85,7 +85,7 @@
 
   <img src="https://cdn.iconscout.com/icon/free/png-256/jira-282219.png" height="40" alt="Jira logo" />
 
-  
+  -->
 </div>
 
 
