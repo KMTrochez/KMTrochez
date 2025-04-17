@@ -72,22 +72,19 @@
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/></a> 
   <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353935/jira.svg" height="40" alt="Jira logo" /></a> 
   <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/377840/wireshark.svg" width="40" height="40" alt="Wireshark" /></a> 
+  <img src="https://www.kali.org/tools/hashcat/" height="40" alt="Hashcat logo" />
 
 <!--
 
-  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/377840/wireshark.svg" width="40" height="40" alt="Wireshark" /></a> 
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="Postman logo" />
   <img src="https://nmap.org/images/nmap-logo-64.png" width="40" height="40" alt="Zenmap logo" />
   
   
 
   <img src="https://avatars.githubusercontent.com/u/10727492?s=200&v=4" height="40" alt="Metasploit logo" />
-  <img width="12" />
-  
-  <img src="https://avatars.githubusercontent.com/u/4189969?s=200&v=4" height="40" alt="Hashcat logo" />
-  <img width="12" />
 
-  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353935/jira.svg" height="40" alt="Jira logo" /></a> 
+  
+  <img src="https://www.kali.org/tools/hashcat/" height="40" alt="Hashcat logo" />
+
 
   -->
 </div>
