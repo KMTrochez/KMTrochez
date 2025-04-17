@@ -71,7 +71,7 @@
 
 
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Icon_2019.svg" width="40" height="40" alt="Wireshark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Wireshark_Logo.svg" width="40" height="40" alt="Wireshark" />
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="40" height="40" alt="Postman logo" />
   <img src="https://nmap.org/images/nmap-logo-64.png" width="40" height="40" alt="Zenmap logo" />
   
