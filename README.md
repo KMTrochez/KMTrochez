@@ -14,13 +14,14 @@
 </div>
 
 ###
-<p align="left"> <img src="(https://komarev.com/ghpvc/?username=KMTrochez&style=flat-square?" alt="KMTrochez" /> </p>
+
 <h1 align="center">Salutations!👋 I am Kevin Trochez</h1>
 
 ###
 
 <h3 align="left">💻 About Me</h3>
-![](https://komarev.com/ghpvc/?username=KMTrochez&style=flat-square)
+###
+<p align="left"> <img src="(https://komarev.com/ghpvc/?username=KMTrochez&style=flat-square?"/> </p>
 ###
 
 <p align="left">Based in Los Angeles, California.<br>
