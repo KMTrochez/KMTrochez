@@ -69,7 +69,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="40" height="40" alt="Anaconda logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" alt="Jupyter Notebook logo" />
 
-  <img src="https://worldvectorlogo.com/logo/wireshark" width="40" height="40" alt="Wireshark" />
+
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Icon_2019.svg" width="40" height="40" alt="Wireshark" />
   <img src="" width="40" height="40" alt="Postman logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Nmap_logo.svg" width="40" height="40" alt="Zenmap logo" />
   
