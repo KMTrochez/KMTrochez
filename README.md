@@ -72,18 +72,18 @@
 
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Icon_2019.svg" width="40" height="40" alt="Wireshark" />
-  <img src="" width="40" height="40" alt="Postman logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Nmap_logo.svg" width="40" height="40" alt="Zenmap logo" />
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="40" height="40" alt="Postman logo" />
+  <img src="https://nmap.org/images/nmap-logo-64.png" width="40" height="40" alt="Zenmap logo" />
   
   
 
-  <img src="/assets/icons/metasploit.svg" height="40" alt="Metasploit logo" />
+  <img src="https://avatars.githubusercontent.com/u/10727492?s=200&v=4" height="40" alt="Metasploit logo" />
   <img width="12" />
   
-  <img src="/assets/icons/hashcat.svg" height="40" alt="Hashcat logo" />
+  <img src="https://avatars.githubusercontent.com/u/4189969?s=200&v=4" height="40" alt="Hashcat logo" />
   <img width="12" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_%28Software%29_logo.svg" height="40" alt="Jira logo" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/jira-282219.png" height="40" alt="Jira logo" />
 
   
 </div>
