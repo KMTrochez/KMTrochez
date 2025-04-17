@@ -70,26 +70,14 @@
   <img src="" width="40" height="40" alt="Postman logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" alt="Jupyter Notebook logo" />
 
-    <!-- Wireshark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Icon_2019.svg" height="40" alt="Wireshark logo" />
-  <img width="12" />
+
   
   <!-- Zenmap (Nmap GUI) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Nmap_logo.svg" height="40" alt="Zenmap logo" />
   <img width="12" />
   
-  <!-- Visual Studio Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-  <img width="12" />
   
-  <!-- Postman -->
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" height="40" alt="Postman logo" />
-  <img width="12" />
-  
-  <!-- Jupyter Notebook -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="Jupyter Notebook logo" />
-  <img width="12" />
-  
+
   <!-- Anaconda -->
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" height="40" alt="Anaconda logo" />
   <img width="12" />
