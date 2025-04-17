@@ -20,9 +20,11 @@
 ###
 
 <h3 align="left">💻 About Me</h3>
-###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green"/> </p>
 <p align="left"> <img src="(https://komarev.com/ghpvc/?username=KMTrochez&style=flat-square?"/> </p>
-###
+<p align="left"> <img src="(https://komarev.com/ghpvc/?username=KMTrochez&style=flat-square?"/> </p>
+
 
 <p align="left">Based in Los Angeles, California.<br>
 <br>- 🔭 Currently Working on my Security + while earning my Masters in Computer Science.
