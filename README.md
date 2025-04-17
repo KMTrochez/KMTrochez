@@ -70,10 +70,12 @@
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" width="40" height="40" alt="Anaconda logo" /></a> 
   <a href="https://www.jupyter.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" alt="Jupyter Notebook logo" /></a> 
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/></a> 
+  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353935/jira.svg" height="40" alt="Jira logo" /></a> 
+  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/377840/wireshark.svg" width="40" height="40" alt="Wireshark" /></a> 
 
 <!--
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Wireshark_Logo.svg" width="40" height="40" alt="Wireshark" />
+  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/377840/wireshark.svg" width="40" height="40" alt="Wireshark" /></a> 
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40" alt="Postman logo" />
   <img src="https://nmap.org/images/nmap-logo-64.png" width="40" height="40" alt="Zenmap logo" />
   
@@ -85,7 +87,7 @@
   <img src="https://avatars.githubusercontent.com/u/4189969?s=200&v=4" height="40" alt="Hashcat logo" />
   <img width="12" />
 
-  <img src="https://cdn.iconscout.com/icon/free/png-256/jira-282219.png" height="40" alt="Jira logo" />
+  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353935/jira.svg" height="40" alt="Jira logo" /></a> 
 
   -->
 </div>
