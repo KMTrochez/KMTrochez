@@ -14,7 +14,7 @@
 </div>
 
 ###
-<p align="left"> <img src="https://profile-counter.glitch.me/KMTrochez/count.svg?" alt="KMTrochez" /> </p>
+<p align="left"> <img src="(https://komarev.com/ghpvc/?username=KMTrochez&style=flat-square?" alt="KMTrochez" /> </p>
 <h1 align="center">Salutations!👋 I am Kevin Trochez</h1>
 
 ###
